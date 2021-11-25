@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MAttack
+  - DetectedIcon
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hero
+  - Monster
+  - Profile
+  - 
+  - 
+  - StageBottons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2377041743
+    locked: 0
+  - name: Floor
+    uniqueID: 4231086883
+    locked: 0
+  - name: Monster
+    uniqueID: 4170124849
+    locked: 0
+  - name: UI
+    uniqueID: 1395686565
+    locked: 0
+  - name: Hero
+    uniqueID: 1454114391
+    locked: 0
